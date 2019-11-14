@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{225:function(n,t,e){"use strict";e.r(t);var s={data:function(){return{msg:"Hello this is <demo-component>"}}},i=e(0),o=Object(i.a)(s,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("欢迎来到首页")])}),[],!1,null,null,null);t.default=o.exports}}]);
